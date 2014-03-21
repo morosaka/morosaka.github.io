@@ -18,9 +18,10 @@ It is possible to take rate frequency over 2, 3, 4, or 5 cycles.
 
 Rates are displayed both as cycles per minute (cpm) and seconds per cycle (spc), piece times measure Laps and Cumulative times, all shown on one screen.
 
-#StrokeRate Chrono 3, codename "[Bianca](http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm)"
+#StrokeRate Chrono 3, codename "[Orsippus](http://https://en.wikipedia.org/wiki/Orsippus)"
 
-This new version of Chrono goes deeper with the [initial idea](http://ghost-camporez.rhcloud.com/making-applications-icon-smaller-on-gnome-shells-top-panel/) of a simple, focued tool for coaches and enthusiasts working with athletes involved in sports such as rowing, swimming, cycling, running.
+This new version of Chrono goes deeper with the [initial idea](http://morosaka.github.io/the_road_to_follow/) of a simple, focued tool for coaches and enthusiasts working with athletes involved in sports such as rowing, swimming, cycling, running.
+
 As the saying goes, <cite>a picture is worth a thousand words</cite>, so we expanded the concept. I mean, literally. The post image (or video!) is now full width and full height, and can be easily add with the use of a variable.
 ##Features
 
