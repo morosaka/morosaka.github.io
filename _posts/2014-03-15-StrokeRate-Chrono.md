@@ -6,9 +6,11 @@ image: /media/2014-03-15-StrokeRate-Chrono/CheeringAtArrival.jpg
 video: false
 ---
 
-Record both stroke rate frequencies and lap, cumulative piece time events.
-Recall all current events on the fly, right on the main screen.
-Email current events to anybody. Review the saved data on your computer at home.
+###Record both stroke rate frequencies and lap, cumulative piece time events.
+
+###Recall all current events on the fly, right on the main screen.
+
+###Email current events to anybody. Review your work data on your computer at home.
 
 The whole events display area accepts taps, making it easier to input commands.
 Buttons can have a audible feedback. All functions are clearly marked and labeled for easy usage.

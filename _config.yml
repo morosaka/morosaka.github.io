@@ -6,14 +6,14 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
-tagline:	'blog'
-description:	'My personal blog.'
-url:		http://camporez.com
+title:		    morosaka
+tagline:	    'Sporting activities support tools'
+description:	'Sport and Health iOS apps for Professionals and Enthusiasts.'
+url:		      http://appyouralley.com
 
-author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+author:   'mmsh'
+  name:		'Mauro Maria Sacca'
+  url:		https://google.com/+Mauro M. Sacca'
 
 paginate:	5
 
@@ -23,30 +23,30 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/morosaka
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/morosaka
     desc:	Fork me on github
 
   - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
+    url:	https://google.com/+Mauro M. Sacca'
     desc:	Add me on google+
 
   - icon:	feed
-    url:	http://camporez.com/atom.xml
+    url:	http://appyouralley.com/atom.xml
     desc:	Subscribe to my feed
-    
+
 menu:
   - title:	Home
     url:	/
-    
+
   - title:	About
     url:	/about
-    
+
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
+  author:	morosaka
+  url:		http://appyouralley.com
   type_title:	Some rights reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
