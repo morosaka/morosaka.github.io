@@ -13,7 +13,7 @@ url:	http://objectivalia.co
 
 author:
   name:	'Mauro Maria Sacca'
-  url:	https://google.com/+Mauro M. Sacca'
+  url:	http://appyouralley.com
 
 paginate:	5
 
@@ -31,12 +31,8 @@ social:
     desc:	Fork me on github
 
   - icon:	googleplus-alt
-    url:	https://google.com/+Mauro M. Sacca'
+    url:	https://plus.google.com/100211166333568553670
     desc:	Add me on google+
-
-  - icon:	feed
-    url:	http://appyouralley.com/atom.xml
-    desc:	Subscribe to my feed
 
 menu:
   - title:	Home
@@ -47,6 +43,6 @@ menu:
 
 copyright:
   author:	morosaka
-  url:		http://appyouralley.com
+  url:		http://objectivalia.co
   type_title:	Some rights reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
