@@ -6,14 +6,14 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:  morosaka
-tagline:  'Sporting activities support tools'
-description:  'Sport and Health iOS apps for Professionals and Enthusiasts.'
-url:  http://objectivalia.co
+title:	 morosaka
+tagline:	'Sporting activities support tools'
+description:	'Sport and Health iOS apps for Professionals and Enthusiasts.'
+url:	http://objectivalia.co
 
-author: 'mmsh'
-  name: 'Mauro Maria Sacca'
-  url:  https://google.com/+Mauro M. Sacca'
+author:	'mmsh'
+  name:	'Mauro Maria Sacca'
+  url:	https://google.com/+Mauro M. Sacca'
 
 paginate:	5
 
