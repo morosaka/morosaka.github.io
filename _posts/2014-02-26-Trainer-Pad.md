@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hello, Cosette"
-quote: Thinny reaches a new version, with mobile support and some other cool features.
-image: /media/2014-02-26-hello-cosette/cover.jpg
+title: "Trainer Pad"
+quote: The definitive tool for trainers and athletes.
+image: /media/2014-02-26-Trainer-Pad/alllenamento-nano.jpg
 video: false
 ---
 

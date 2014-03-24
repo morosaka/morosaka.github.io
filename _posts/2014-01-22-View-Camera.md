@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "App Features"
-quote: The Infinite's Nymphet has a new look, a new codename, and a new platform!
+title: "View Camera"
+quote: Many photgraphers like to have maximum controll over the process. 
 image: false
 video: false
 ---
