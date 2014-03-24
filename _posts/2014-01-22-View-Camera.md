@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "View Camera"
-quote: The holy grail for many photographers: maximum controll over the photography taking process.
+quote: Maximum controll over the photography taking process
 image: /media/2014-01-22-View-Camera/Pompejanischer-Maler-1.jpg
 video: false
 ---
