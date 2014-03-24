@@ -2,15 +2,21 @@
 layout: post
 title: "Chrono 3.4"
 quote: A StrokeRate-Watch and Chronograph for iPhone and iPod, StrokeRate Chrono is an indispensable tool for every rowing, swimming, and running enthusiast, every coach, every trainer, and official.
-image: /media/2014-03-15-StrokeRate-Chrono/rowing-1.jpg
+image: /media/2014-03-15-StrokeRate-Chrono/rowing_1.jpg
 video: false
 ---
 
-###Record both stroke rate frequencies and lap, cumulative piece time events.
+###Record 
+both stroke rate frequencies and lap, cumulative piece time events.
 
-###Recall all current events on the fly, right on the main screen.
+###Recall 
+all current events on the fly, right on the main screen.
 
-###Email current events to anybody. Review your work data on your computer at home.
+###Email 
+current events to anybody. 
+
+###Review 
+your work data on your computer at home.
 
 The whole events display area accepts taps, making it easier to input commands.
 Buttons can have a audible feedback. All functions are clearly marked and labeled for easy usage.

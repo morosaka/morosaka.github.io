@@ -2,7 +2,7 @@
 layout: post
 title: "Trainer Pad"
 quote: The definitive tool for trainers and athletes.
-image: /media/2014-02-26-Trainer-Pad/alllenamento-nano.jpg
+image: /media/2014-02-26-Trainer-Pad/allenamento-nano.jpg
 video: false
 ---
 
@@ -10,7 +10,7 @@ video: false
 
 Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
 
-{% include image.html url="/media/2014-02-26-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_2.jpg" width="100%" description="Olympics games: London 2012, Danmark 2x light-wheight male." %}
 
 This new version of Thinny comes with mobile support and some bugfixes.
 
