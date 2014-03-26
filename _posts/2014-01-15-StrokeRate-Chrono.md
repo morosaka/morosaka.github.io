@@ -8,6 +8,10 @@ video: false
 
 #StrokeRate Chrono 3, codename "[Orsippus](http://https://en.wikipedia.org/wiki/Orsippus)"
 
+{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/corridore-nero-2.jpg" width="100%" description="Running naked" %}
+
+Orsippus of Megara was an ancient Greek athlete who won the stadion race of the fifteenth Ancient Olympic Games in 720 B.C. He became the crowd’s favorite, and he was thought to be a great pioneer for being most likely the first ever athlete to run naked. Pausanias, who very often reported on the ancient Olympics like a modern-day sports journalist, states: “My own opinion is that at Olympia he [Orsippus] intentionally let the girdle slip off him, realizing that a naked man can run more easily than one girt.”
+
 ##Features
 Record both stroke rate frequencies and lap, cumulative piece time events.
 Recall all current events on the fly, right on the main screen.
@@ -22,7 +26,7 @@ Buttons can have a audible feedback. All functions are clearly marked and labele
 It is possible to take rate frequency over 2, 3, 4, or 5 cycles.
 Rates are displayed both as cycles per minute (cpm) and seconds per cycle (spc), piece times measure Laps and Cumulative times, all shown on one screen.
 
-{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/iPhone5-W-MockUp.jpg" width="100%" description="Olympics games: London 2012." %}
+{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/iPhone5-W-MockUp.jpg" width="100%" description="StrokeRate Chrono v2 interface: taking rates." %}
 
 This new version of Chrono goes deeper with the [initial idea](http://morosaka.github.io/the_road_to_follow/) of a simple, focued tool for coaches and enthusiasts <cite>monitoring athletes</cite> involved in sports such as rowing, swimming, cycling, running.
 
