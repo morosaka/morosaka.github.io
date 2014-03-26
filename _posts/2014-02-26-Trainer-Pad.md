@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trainer Pad"
-quote: The definitive tool for trainers and athletes, fine-tuned and personalized for diffrent sports and activities through specialized tasks modules.
+quote: The definitive tool for trainers and athletes, fine-tuned and personalized for different sports and activities through specialized tasks modules.
 image: /media/2014-02-26-Trainer-Pad/pankration3.jpg
 video: false
 ---
@@ -11,27 +11,107 @@ video: false
 {% include image.html url="/media/2014-02-26-Trainer-Pad/allenamento-nano.jpg" width="100%" description="Most historians agree that Milo remains to this day the greatest wrestler and fighter (from any combat sport) the world has ever known. Milo of Croton became an Olympic champion several times during his nearly thirty-year career. His size and physique were intimidating, and his strength and technique perfect—and many people accordingly believed that he was  the son of Zeus. He was said to eat more than eight kilograms of meat every day. Some say that he even once carried an adult bull on his shoulders, all the way to the Olympic stadium, where he slaughtered and devoured it. Yet Milo was not merely a hulking wrestler; he was also a musician and a poet, as well as a student of the mathematician and philosopher Pythagoras.The greatest wrestler of the twentieth century, Alexander Karelin, was often called the modern-day Milo of Croton—but he himself acknowledged that he would not stand a good chance against the real Milo." %}
 
 {% include image.html url="/media/2014-02-26-Trainer-Pad/run_2.jpg" width="100%" description="Olympics games: London 2012." %}
+
+
 ## Features
 Modular system for the complete mamnagement of sporting activities. 
 
-### Timers
-Taking times, scores, running timers, rates.
-### Team management
-keeping track of teams and partecipants, scheduling training and events, organizing tounaments schedules and table, tracking game fields, lanes, tracks.
-### Training
-Training routines, schedules, activity calendars.
-### Imaging
-Shooting films and photos, movement analisys.
-### Notes
-Typed or hand written note taking, image and film whiteboarding.
-### Mapping
-Tracking distances, field and road conditions, satellite images.
-### Safety
-Warning for proximity or dangerous situations.
-## Communications
-Text and voice communication. GPS, Wi-Fi, BlueTooth tracking of networked devices
-### Weather Reports
-Hourly weather reports for local conditions with detailed satellite imaginery.
+<table>
+  <thead>
+    <tr>
+      <th>Module</th>
+      <th>Description</th>
+      <th>Sport</th>
+      <th>Release date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Timers</td>
+      <td>Taking times, scores, running timers, rates.</td>
+      <td>All</td>
+      <td>June 2014</td>
+    </tr>
+    <tr>
+      <td>Training</td>
+      <td>Training routines</td>
+      <td>All</td>
+      <td>July 2014</td>
+    </tr>
+    <tr>
+      <td>Imaging</td>
+      <td>Shooting films and photos, movement analisys. Image and film annotations.</td>
+      <td>All</td>
+      <td>August 2014</td>
+    </tr>
+    <tr>
+      <td>Calendars</td>
+      <td>Scheduling, activity calendars.</td>
+      <td>All</td>
+      <td>September 2014</td>
+    </tr>
+    <tr>
+      <td>Team and athlets management</td>
+      <td>Keeping track of teams and athletes data.</td>
+      <td>All</td>
+      <td>September 2014</td>
+    </tr>
+    <tr>
+      <td>Calendars</td>
+      <td>Scheduling training sessions and events, organizing tounaments, activity calendars, tracking game fields, lanes, tracks.</td>
+      <td>All</td>
+      <td>September 2014</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Typed or hand written note taking and sketching, game fields annotations</td>
+      <td>All</td>
+      <td>September 2014</td>
+    </tr>
+    <tr>
+      <td>Rules</td>
+      <td>Game rule books and regulations.</td>
+      <td>All</td>
+      <td>September 2014</td>
+    </tr>
+    <tr>
+      <td>Mapping</td>
+      <td>Tracking distances, field and road conditions, terrain satellite images.</td>
+      <td>All</td>
+      <td>September 2014</td>
+    </tr>
+    <tr>
+      <td>Safety</td>
+      <td>Warning for proximity or dangerous situations.</td>
+      <td>Sculling</td>
+      <td>September 2014</td>
+    </tr>
+    <tr>
+      <td>Communications</td>
+      <td>Text and voice communication. GPS, Wi-Fi, BlueTooth tracking of networked devices.</td>
+      <td>All</td>
+      <td>September 2014</td>
+    </tr>
+    <tr>
+      <td>Weather</td>
+      <td>Hourly weather reports for local conditions with detailed satellite imaginery.</td>
+      <td>All</td>
+      <td>September 2014</td>
+    </tr>
+    <tr>
+      <td>Nutrition</td>
+      <td>Keeping track of nutrition facts, diets, calories ingest.</td>
+      <td>All</td>
+      <td>September 2014</td>
+    </tr>
+    <tr>
+      <td>Medical</td>
+      <td>Medical records, bio stats.</td>
+      <td>All</td>
+      <td>September 2014</td>
+    </tr>
+  </tbody>
+</table> 
 
 ## Usage
 
@@ -88,45 +168,6 @@ You'll find a lot of other variables inside the file, e.g.:
 - `video_webm: [url]`: the URL for the webm video.
 - `video_ogv: [url]`: the URL for the ogv video.
 
-## Versions
-
-Here is a `<table>` with all Thinny's versions:
-<table>
-  <thead>
-    <tr>
-      <th>Version</th>
-      <th>Codename</th>
-      <th>Platform</th>
-      <th>Release date</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>[0.3](https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra)</td>
-      <td>[Alexandra](http://nikita2010.wikia.com/wiki/Alexandra_Udinov)</td>
-      <td>Ghost 0.3.x</td>
-      <td>November 2013</td>
-    </tr>
-    <tr>
-      <td>[2.0](https://github.com/camporez/Thinny/releases/tag/v2.0-bianca)</td>
-      <td>[Bianca](http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm)</td>
-      <td>Jekyll</td>
-      <td>January 2014</td>
-    </tr>
-    <tr>
-      <td>[2.1](https://github.com/camporez/Thinny/releases/tag/v2.1-cosette)</td>
-      <td>[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)</td>
-      <td>Jekyll</td>
-      <td>March 2014</td>
-    </tr>
-    <tr>
-      <td>2.2</td>
-      <td>[Dolores](http://en.wikipedia.org/wiki/Dolores_Haze)</td>
-      <td>Jekyll</td>
-      <td><i>Soon (see the [issues list](https://github.com/camporez/camporez.github.io/issues?milestone=3))</i></td>
-    </tr>
-  </tbody>
-</table>
 
 ## Download
 
