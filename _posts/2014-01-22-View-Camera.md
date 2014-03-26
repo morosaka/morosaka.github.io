@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "View Camera"
-quote: Maximum controll over the photography taking process
-image: /media/2014-01-22-View-Camera/Pompejanischer-Maler-1.jpg
+title: "Action Cam"
+quote: Camera module specialized in action review, movement analisys, and image annotation.
+image: /media/2014-01-22-View-Camera/Pompejanischer-Maler-2.jpg
 video: false
 ---
 

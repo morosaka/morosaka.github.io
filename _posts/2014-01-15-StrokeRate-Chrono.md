@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Chrono 3.4"
-quote: A StrokeRate-Watch and Chronograph for iPhone and iPod, StrokeRate Chrono is an indispensable tool for every rowing, swimming, and running enthusiast, every coach, every trainer, and official.
-image: /media/2014-03-15-StrokeRate-Chrono/rowing_1.jpg
+quote: A StrokeRate-Watch and Chronograph for iPhone, iPod, and iPad, StrokeRate Chrono is an indispensable tool for every rowing, swimming, and running enthusiast, every coach, every trainer, and official.
+image: /media/2014-01-15-StrokeRate-Chrono/rowing_1.jpg
 video: false
 ---
+
+#StrokeRate Chrono 3, codename "[Orsippus](http://https://en.wikipedia.org/wiki/Orsippus)"
 
 ###Record 
 both stroke rate frequencies and lap, cumulative piece time events.
@@ -12,19 +14,19 @@ both stroke rate frequencies and lap, cumulative piece time events.
 ###Recall 
 all current events on the fly, right on the main screen.
 
-###Email 
-current events to anybody. 
+###Communicate 
+email current events to anybody. 
 
 ###Review 
 your work data on your computer at home.
 
-The whole events display area accepts taps, making it easier to input commands.
+The whole events display area accepts taps, making it easy to input commands.
 Buttons can have a audible feedback. All functions are clearly marked and labeled for easy usage.
 It is possible to take rate frequency over 2, 3, 4, or 5 cycles.
-
 Rates are displayed both as cycles per minute (cpm) and seconds per cycle (spc), piece times measure Laps and Cumulative times, all shown on one screen.
 
-#StrokeRate Chrono 3, codename "[Orsippus](http://https://en.wikipedia.org/wiki/Orsippus)"
+
+{% include image.html url="/media/2014-01-26-Trainer-Pad/rowing_1.jpg" width="100%" description="Olympics games: London 2012." %}
 
 This new version of Chrono goes deeper with the [initial idea](http://morosaka.github.io/the_road_to_follow/) of a simple, focued tool for coaches and enthusiasts working with athletes involved in sports such as rowing, swimming, cycling, running.
 

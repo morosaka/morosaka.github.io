@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trainer Pad"
-quote: The definitive tool for trainers and athletes.
+quote: The definitive tool for trainers and athletes, fine-tuned and personalized through specialized modules.
 image: /media/2014-02-26-Trainer-Pad/allenamento-nano.jpg
 video: false
 ---
