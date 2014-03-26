@@ -15,7 +15,7 @@ System for the complete management of sporting activities, customized and fine-t
 {% include image.html url="/media/2014-02-26-Trainer-Pad/run_2.jpg" width="100%" description="Olympics games: London 2012." %}
 
 
-## Features
+## People and Time
 
 <table>
   <thead>
@@ -40,18 +40,6 @@ System for the complete management of sporting activities, customized and fine-t
       <td>July 2014</td>
     </tr>
     <tr>
-      <td>Imaging</td>
-      <td>Shooting films and photos, movement analisys. Image and film annotations.</td>
-      <td>All</td>
-      <td>August 2014</td>
-    </tr>
-    <tr>
-      <td>Calendars</td>
-      <td>Scheduling, activity calendars.</td>
-      <td>All</td>
-      <td>September 2014</td>
-    </tr>
-    <tr>
       <td>Team and athlets management</td>
       <td>Keeping track of teams and athletes data.</td>
       <td>All</td>
@@ -64,32 +52,77 @@ System for the complete management of sporting activities, customized and fine-t
       <td>September 2014</td>
     </tr>
     <tr>
+  </tbody>
+</table> 
+
+##Form and details
+
+<table>
+  <thead>
+    <tr>
+      <th>Module</th>
+      <th>Description</th>
+      <th>Sport</th>
+      <th>Release date</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td>Imaging</td>
+      <td>Shooting films and photos, movement analisys. Image and film annotations.</td>
+      <td>All</td>
+      <td>August 2014</td>
+    </tr>
+    <tr>
       <td>Notes</td>
       <td>Typed or hand written note taking and sketching, game fields annotations</td>
       <td>All</td>
       <td>September 2014</td>
     </tr>
+  </tbody>
+</table> 
+
+## Reference Docs
+
+<table>
+  <thead>
+    <tr>
+      <th>Module</th>
+      <th>Description</th>
+      <th>Sport</th>
+      <th>Release date</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>Rules</td>
       <td>Game rule books and regulations.</td>
       <td>All</td>
       <td>September 2014</td>
     </tr>
+  </tbody>
+</table> 
+
+## On the ground
+
+<table>
+  <thead>
     <tr>
+      <th>Module</th>
+      <th>Description</th>
+      <th>Sport</th>
+      <th>Release date</th>
+    </tr>
+  </thead>
+  <tbody>
       <td>Mapping</td>
-      <td>Tracking distances, field and road conditions, terrain satellite images.</td>
+      <td>Tracking distances, trails, field and road conditions, terrain satellite images.</td>
       <td>All</td>
       <td>September 2014</td>
     </tr>
     <tr>
-      <td>Safety</td>
-      <td>Warning for proximity or dangerous situations.</td>
-      <td>Sculling</td>
-      <td>September 2014</td>
-    </tr>
-    <tr>
       <td>Communications</td>
-      <td>Text and voice communication. GPS, Wi-Fi, BlueTooth tracking of networked devices.</td>
+      <td>Text and voice communication. GPS, Wi-Fi, BlueTooth tracking of networked devices. Warning for location proximity or danger.</td>
       <td>All</td>
       <td>September 2014</td>
     </tr>
@@ -99,15 +132,30 @@ System for the complete management of sporting activities, customized and fine-t
       <td>All</td>
       <td>September 2014</td>
     </tr>
+  </tbody>
+</table> 
+
+## Bodily Care
+
+<table>
+  <thead>
+    <tr>
+      <th>Module</th>
+      <th>Description</th>
+      <th>Sport</th>
+      <th>Release date</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>Nutrition</td>
-      <td>Keeping track of nutrition facts, diets, calories ingest.</td>
+      <td>Keeping track of nutrition facts, diets, calories.</td>
       <td>All</td>
       <td>September 2014</td>
     </tr>
     <tr>
       <td>Medical</td>
-      <td>Medical records, bio stats.</td>
+      <td>Bio records and stats.</td>
       <td>All</td>
       <td>September 2014</td>
     </tr>
