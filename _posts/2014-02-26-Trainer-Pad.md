@@ -12,8 +12,7 @@ System for the complete management of sporting activities, customized and fine-t
 
 {% include image.html url="/media/2014-02-26-Trainer-Pad/allenamento-nano.jpg" width="100%" description="Most historians agree that Milo remains to this day the greatest wrestler and fighter (from any combat sport) the world has ever known. Milo of Croton became an Olympic champion several times during his nearly thirty-year career. His size and physique were intimidating, and his strength and technique perfect—and many people accordingly believed that he was  the son of Zeus. He was said to eat more than eight kilograms of meat every day. Some say that he even once carried an adult bull on his shoulders, all the way to the Olympic stadium, where he slaughtered and devoured it. Yet Milo was not merely a hulking wrestler; he was also a musician and a poet, as well as a student of the mathematician and philosopher Pythagoras.The greatest wrestler of the twentieth century, Alexander Karelin, was often called the modern-day Milo of Croton—but he himself acknowledged that he would not stand a good chance against the real Milo." %}
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/run_2.jpg" width="100%" description="Olympics games: London 2012." %}
-
+{% include image.html url="/media/2014-02-26-Trainer-Pad/run_1.jpg" width="100%" description="" %}
 
 ## People and Time
 
@@ -55,6 +54,8 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
+{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_3.jpg" width="100%" description="" %}
+
 ##Form and details
 
 <table>
@@ -82,6 +83,8 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
+{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_1.jpg" width="100%" description="" %}
+
 ## Reference Docs
 
 <table>
@@ -102,6 +105,8 @@ System for the complete management of sporting activities, customized and fine-t
     </tr>
   </tbody>
 </table> 
+
+{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_2.jpg" width="100%" description="" %}
 
 ## On the ground
 
@@ -135,6 +140,8 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
+{% include image.html url="/media/2014-02-26-Trainer-Pad/run_2.jpg" width="100%" description="" %}
+
 ## Bodily Care
 
 <table>
@@ -164,8 +171,6 @@ System for the complete management of sporting activities, customized and fine-t
 
 ## Usage
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_3.jpg" width="100%" description="Olympics games: London 2012." %}
-
 ### Main variables
 
 The global variables are set on the `_config.yml` file.
@@ -173,8 +178,6 @@ The global variables are set on the `_config.yml` file.
 To start, you need to change at least the variable `url` on the file.
 
 #### Social links
-
-{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_1.jpg" width="100%" description="Olympics games: London 2012." %}
 
 To add a social link you just need to add the following code inside the variable `social`:
 
@@ -194,8 +197,6 @@ To add a menu item you just need to add the following code inside the variable `
 ```
 
 #### Others
-
-{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_2.jpg" width="100%" description="Olympics games: London 2012." %}
 
 You'll find a lot of other variables inside the file, e.g.:
 
