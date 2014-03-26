@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Trainer Pad"
-quote: The definitive tool for trainers and athletes, fine-tuned and personalized for different sports and activities through specialized tasks modules.
+quote: The definitive tool for trainers and athletes.
 image: /media/2014-02-26-Trainer-Pad/pankration3.jpg
 video: false
 ---
 
 #Trainer Pad 1.0, codename "[Milon](/)"
+
+System for the complete management of sporting activities, customized and fine-tuned through the use of specialized tasks modules. Add only the features you need and target your specific sport and role.
 
 {% include image.html url="/media/2014-02-26-Trainer-Pad/allenamento-nano.jpg" width="100%" description="Most historians agree that Milo remains to this day the greatest wrestler and fighter (from any combat sport) the world has ever known. Milo of Croton became an Olympic champion several times during his nearly thirty-year career. His size and physique were intimidating, and his strength and technique perfect—and many people accordingly believed that he was  the son of Zeus. He was said to eat more than eight kilograms of meat every day. Some say that he even once carried an adult bull on his shoulders, all the way to the Olympic stadium, where he slaughtered and devoured it. Yet Milo was not merely a hulking wrestler; he was also a musician and a poet, as well as a student of the mathematician and philosopher Pythagoras.The greatest wrestler of the twentieth century, Alexander Karelin, was often called the modern-day Milo of Croton—but he himself acknowledged that he would not stand a good chance against the real Milo." %}
 
@@ -14,7 +16,6 @@ video: false
 
 
 ## Features
-Modular system for the complete mamnagement of sporting activities. 
 
 <table>
   <thead>
