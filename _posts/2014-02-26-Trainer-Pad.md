@@ -10,11 +10,13 @@ video: false
 
 Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_2.jpg" width="100%" description="Olympics games: London 2012, Danmark 2x light-wheight male." %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/run_2.jpg" width="100%" description="Olympics games: London 2012." %}
 
 This new version of Thinny comes with mobile support and some bugfixes.
 
 ## Usage
+
+{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_3.jpg" width="100%" description="Olympics games: London 2012." %}
 
 ### Main variables
 
@@ -23,6 +25,8 @@ The global variables are set on the `_config.yml` file.
 To start, you need to change at least the variable `url` on the file.
 
 #### Social links
+
+{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_1.jpg" width="100%" description="Olympics games: London 2012." %}
 
 To add a social link you just need to add the following code inside the variable `social`:
 
@@ -42,6 +46,8 @@ To add a menu item you just need to add the following code inside the variable `
 ```
 
 #### Others
+
+{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_2.jpg" width="100%" description="Olympics games: London 2012." %}
 
 You'll find a lot of other variables inside the file, e.g.:
 
