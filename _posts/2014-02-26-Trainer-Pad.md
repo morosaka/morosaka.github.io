@@ -1,18 +1,37 @@
 ---
 layout: post
 title: "Trainer Pad"
-quote: The definitive tool for trainers and athletes, fine-tuned and personalized through specialized modules.
+quote: The definitive tool for trainers and athletes, fine-tuned and personalized for diffrent sports and activities through specialized tasks modules.
 image: /media/2014-02-26-Trainer-Pad/pankration3.jpg
 video: false
 ---
 
-#Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
+#Trainer Pad 1.0, codename "[Milon](/)"
 
-Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
+{% include image.html url="/media/2014-02-26-Trainer-Pad/allenamento-nano.jpg" width="100%" description="Most historians agree that Milo remains to this day the greatest wrestler and fighter (from any combat sport) the world has ever known. Milo of Croton became an Olympic champion several times during his nearly thirty-year career. His size and physique were intimidating, and his strength and technique perfect—and many people accordingly believed that he was  the son of Zeus. He was said to eat more than eight kilograms of meat every day. Some say that he even once carried an adult bull on his shoulders, all the way to the Olympic stadium, where he slaughtered and devoured it. Yet Milo was not merely a hulking wrestler; he was also a musician and a poet, as well as a student of the mathematician and philosopher Pythagoras.The greatest wrestler of the twentieth century, Alexander Karelin, was often called the modern-day Milo of Croton—but he himself acknowledged that he would not stand a good chance against the real Milo." %}
 
 {% include image.html url="/media/2014-02-26-Trainer-Pad/run_2.jpg" width="100%" description="Olympics games: London 2012." %}
+## Features
+Modular system for the complete mamnagement of sporting activities. 
 
-This new version of Thinny comes with mobile support and some bugfixes.
+### Timers
+Taking times, scores, running timers, rates.
+### Team management
+keeping track of teams and partecipants, scheduling training and events, organizing tounaments schedules and table, tracking game fields, lanes, tracks.
+### Training
+Training routines, schedules, activity calendars.
+### Imaging
+Shooting films and photos, movement analisys.
+### Notes
+Typed or hand written note taking, image and film whiteboarding.
+### Mapping
+Tracking distances, field and road conditions, satellite images.
+### Safety
+Warning for proximity or dangerous situations.
+## Communications
+Text and voice communication. GPS, Wi-Fi, BlueTooth tracking of networked devices
+### Weather Reports
+Hourly weather reports for local conditions with detailed satellite imaginery.
 
 ## Usage
 
