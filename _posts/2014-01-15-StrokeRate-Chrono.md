@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Chrono 3.4"
-quote: A StrokeRate-Watch and Chronograph for iPhone, iPod, and iPad, StrokeRate Chrono is an indispensable tool for every rowing, swimming, and running enthusiast, every coach, every trainer, and official.
-image: /media/2014-01-15-StrokeRate-Chrono/rowing_1.jpg
+quote: A stripped down StrokeRate-Watch and Chronograph for iPhone, iPod, and iPad, StrokeRate Chrono is an great tool for every rowing, swimming, and running enthusiast, every coach, every trainer, and official.
+image: /media/2014-01-15-StrokeRate-Chrono/rowing_2.jpg
 video: false
 ---
 
@@ -51,7 +51,7 @@ You can add `code elements` with highlight support:
 
 Will output this:
 
-{% include image.html url="/media/2014-01-22-thinny-2/bianca.jpg" width="100%" description="Image captions are supported out of the box. Brilliant!" %}
+{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/iPhone5-B-CloseUp.jpg" width="100%" description="StrokeRate Chrono v2 interface: taking rates." %}
 
 ### Table
 
