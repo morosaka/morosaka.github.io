@@ -6,7 +6,7 @@ image: /media/2014-01-15-StrokeRate-Chrono/rowing_2.jpg
 video: false
 ---
 
-#StrokeRate Chrono 3, codename "[Orsippus](http://https://en.wikipedia.org/wiki/Orsippus)"
+#StrokeRate Chrono 3, \ncodename "[Orsippus](http://https://en.wikipedia.org/wiki/Orsippus)"
 
 {% include image.html url="/media/2014-01-15-StrokeRate-Chrono/corridore-nero-2.jpg" width="100%" description="Orsippus of Megara was an ancient Greek athlete who won the stadion race of the fifteenth Ancient Olympic Games in 720 B.C. He became the crowd’s favorite, and he was thought to be a great pioneer for being most likely the first ever athlete to run naked. Pausanias, who very often reported on the ancient Olympics like a modern-day sports journalist, states: “My own opinion is that at Olympia he [Orsippus] intentionally let the girdle slip off him, realizing that a naked man can run more easily than one girt.”" %}
 
