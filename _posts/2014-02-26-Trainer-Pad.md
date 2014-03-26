@@ -53,7 +53,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/run_1.jpg" width="100%" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/run_1.jpg" width="100%" description="Marathon" %}
 
 ##Form and details
 
@@ -82,7 +82,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_1.jpg" width="100%" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_2.jpg" width="100%" description="Mountain Bike" %}
 
 ## Reference Docs
 
@@ -105,7 +105,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_2.jpg" width="100%" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_2.jpg" width="100%" description="Swimming" %}
 
 ## On the ground
 
@@ -139,7 +139,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/run_2.jpg" width="100%" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/run_2.jpg" width="100%" description="Track and Field" %}
 
 ## Bodily Care
 
@@ -168,7 +168,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_3.jpg" width="100%" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_3.jpg" width="100%" description="Rowing" %}
 
 ## Usage
 
