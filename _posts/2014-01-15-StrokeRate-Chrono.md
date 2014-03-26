@@ -8,30 +8,23 @@ video: false
 
 #StrokeRate Chrono 3, codename "[Orsippus](http://https://en.wikipedia.org/wiki/Orsippus)"
 
-###Record 
-both stroke rate frequencies and lap, cumulative piece time events.
+##Features
+Record both stroke rate frequencies and lap, cumulative piece time events.
+Recall all current events on the fly, right on the main screen.
+Communicate and email current events to anybody. 
+Review your work data on your computer at home.
 
-###Recall 
-all current events on the fly, right on the main screen.
+{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/rowing_1.jpg" width="100%" description="Olympics games: London 2012." %}
 
-###Communicate 
-email current events to anybody. 
-
-###Review 
-your work data on your computer at home.
-
+##Interface
 The whole events display area accepts taps, making it easy to input commands.
 Buttons can have a audible feedback. All functions are clearly marked and labeled for easy usage.
 It is possible to take rate frequency over 2, 3, 4, or 5 cycles.
 Rates are displayed both as cycles per minute (cpm) and seconds per cycle (spc), piece times measure Laps and Cumulative times, all shown on one screen.
 
+{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/iPhone5-W-MockUp.jpg" width="100%" description="Olympics games: London 2012." %}
 
-{% include image.html url="/media/2014-01-26-Trainer-Pad/rowing_1.jpg" width="100%" description="Olympics games: London 2012." %}
-
-This new version of Chrono goes deeper with the [initial idea](http://morosaka.github.io/the_road_to_follow/) of a simple, focued tool for coaches and enthusiasts working with athletes involved in sports such as rowing, swimming, cycling, running.
-
-As the saying goes, <cite>a picture is worth a thousand words</cite>, so we expanded the concept. I mean, literally. The post image (or video!) is now full width and full height, and can be easily add with the use of a variable.
-##Features
+This new version of Chrono goes deeper with the [initial idea](http://morosaka.github.io/the_road_to_follow/) of a simple, focued tool for coaches and enthusiasts <cite>monitoring athletes</cite> involved in sports such as rowing, swimming, cycling, running.
 
 ### Lists and text formatting
 
