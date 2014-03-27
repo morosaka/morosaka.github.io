@@ -2,7 +2,7 @@
 layout: post
 title: "Trainer Pad"
 quote: The definitive tool for trainers and athletes.
-image: /media/2014-02-26-Trainer-Pad/pankration3.jpg
+image: /media/2014-02-26-Trainer-Pad/pankration3rev2.jpg
 video: false
 ---
 
