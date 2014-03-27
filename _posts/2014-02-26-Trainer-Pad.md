@@ -74,7 +74,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_2@05.jpg" width="100%" description="Mountain Bike" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_2@05.jpg" width="100%" description="Mountain bike racing" %}
 
 ##On Board computer
 
@@ -100,7 +100,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_2@05.jpg" width="100%" description="Mountain Bike" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_2@05.jpg" width="100%" description="Swimming" %}
 
 ## Reference Docs
 
@@ -121,7 +121,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_2@05.jpg" width="100%" description="Swimming" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_2@05.jpg" width="100%" description="Rowing: Swiping" %}
 
 ## Environment
 
@@ -147,7 +147,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_1@05.jpg" width="100%" description="Track and Field" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_1@05.jpg" width="100%" description="Track cycling" %}
 
 ## Communication
 
@@ -173,7 +173,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_1@05.jpg" width="100%" description="Track and Field" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_1@05.jpg" width="100%" description="Swimming" %}
 
 ## Safety
 
@@ -204,7 +204,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/run_2@05.jpg" width="100%" description="Track and Field" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/run_2@05.jpg" width="100%" description="Track and field" %}
 
 ## Bodily Care
 
@@ -230,7 +230,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_3@05.jpg" width="100%" description="Rowing" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_3@05.jpg" width="100%" description="Rowing: Sculling" %}
 
 ## Usage
 
