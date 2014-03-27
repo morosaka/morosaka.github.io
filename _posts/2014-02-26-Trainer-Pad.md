@@ -12,6 +12,7 @@ System for the management of sporting activities, customized and fine-tuned thro
 
 Deployed for iOS devices, can be used with iPhone, iPod, iPad (look for wearable devices such as iWatch and Android implementation future announcements).
 
+
 {% include image.html url="/media/2014-02-26-Trainer-Pad/milon@05.jpg" width="100%" description="Most historians agree that Milon (6th-century BC) remains to this day the greatest wrestler and fighter (from any combat sport) the world has ever known. Milon of Croton became an Olympic champion several times during his nearly thirty-year career. His size and physique were intimidating, and his strength and technique perfect. Yet Milo was not merely a hulking wrestler; he was also a musician and a poet, as well as a student of the mathematician and philosopher Pythagoras." %}
 
 
