@@ -2,7 +2,7 @@
 layout: post
 title: "Chrono 3.4"
 quote: A stripped down StrokeRate-Watch and Chronograph for iPhone, iPod, and iPad, StrokeRate Chrono is an great tool for every rowing, swimming, and running enthusiast, every coach, every trainer, and official.
-image: /media/2014-01-15-StrokeRate-Chrono/rowing_2.jpg
+image: /media/2014-01-15-StrokeRate-Chrono/rowing_1.jpg
 video: false
 ---
 
