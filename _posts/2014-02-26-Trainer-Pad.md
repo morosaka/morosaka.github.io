@@ -21,7 +21,6 @@ System for the complete management of sporting activities, customized and fine-t
       <th>Module</th>
       <th>Description</th>
       <th>Sport</th>
-      <th>Release date</th>
     </tr>
   </thead>
   <tbody>
@@ -29,25 +28,21 @@ System for the complete management of sporting activities, customized and fine-t
       <td>Timers</td>
       <td>Taking times, scores, running timers, rates.</td>
       <td>All</td>
-      <td>June 2014</td>
     </tr>
     <tr>
       <td>Training</td>
-      <td>Training routines</td>
+      <td>Training routines: time, distance, allarm...</td>
       <td>All</td>
-      <td>July 2014</td>
     </tr>
     <tr>
       <td>Team and athlets management</td>
       <td>Keeping track of teams and athletes data.</td>
       <td>All</td>
-      <td>September 2014</td>
     </tr>
     <tr>
       <td>Calendars</td>
       <td>Scheduling training sessions and events, organizing tounaments, activity calendars, tracking game fields, lanes, tracks.</td>
       <td>All</td>
-      <td>September 2014</td>
     </tr>
     <tr>
   </tbody>
@@ -63,7 +58,6 @@ System for the complete management of sporting activities, customized and fine-t
       <th>Module</th>
       <th>Description</th>
       <th>Sport</th>
-      <th>Release date</th>
     </tr>
   </thead>
   <tbody>
@@ -71,18 +65,42 @@ System for the complete management of sporting activities, customized and fine-t
       <td>Imaging</td>
       <td>Shooting films and photos, movement analisys. Image and film annotations.</td>
       <td>All</td>
-      <td>August 2014</td>
     </tr>
     <tr>
       <td>Notes</td>
       <td>Typed or hand written note taking and sketching, game fields annotations</td>
       <td>All</td>
-      <td>September 2014</td>
     </tr>
   </tbody>
 </table> 
 
 {% include image.html url="/media/2014-02-26-Trainer-Pad/bike_2@05.jpg" width="100%" description="Mountain Bike" %}
+
+##On Board computer
+
+<table>
+  <thead>
+    <tr>
+      <th>Module</th>
+      <th>Description</th>
+      <th>Sport</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td>On Board Computer</td>
+      <td>Times, Strokes, speed, attitude.</td>
+      <td>Rowing, Biking, Running</td>
+    </tr>
+    <tr>
+      <td>Mapping</td>
+      <td>Nav data from computer, tracing route on map, on and off roads</td>
+      <td>Rowing, Biking, Running</td>
+    </tr>
+  </tbody>
+</table> 
+
+{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_2@05.jpg" width="100%" description="Mountain Bike" %}
 
 ## Reference Docs
 
@@ -92,7 +110,6 @@ System for the complete management of sporting activities, customized and fine-t
       <th>Module</th>
       <th>Description</th>
       <th>Sport</th>
-      <th>Release date</th>
     </tr>
   </thead>
   <tbody>
@@ -100,14 +117,13 @@ System for the complete management of sporting activities, customized and fine-t
       <td>Rules</td>
       <td>Game rule books and regulations.</td>
       <td>All</td>
-      <td>September 2014</td>
     </tr>
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_2@05.jpg" width="100%" description="Swimming" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_2@05.jpg" width="100%" description="Swimming" %}
 
-## On the ground
+## Environment
 
 <table>
   <thead>
@@ -115,26 +131,54 @@ System for the complete management of sporting activities, customized and fine-t
       <th>Module</th>
       <th>Description</th>
       <th>Sport</th>
-      <th>Release date</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
       <td>Mapping</td>
-      <td>Tracking distances, trails, field and road conditions, terrain satellite images.</td>
+      <td>Tracking distances. Nav data from computer, tracing route on map, on and off roads</td>
       <td>All</td>
-      <td>September 2014</td>
     </tr>
     <tr>
       <td>Communications</td>
-      <td>Text and voice communication. GPS, Wi-Fi, BlueTooth tracking of networked devices. Warning for location proximity or danger.</td>
+      <td>Text and voice communication.</td>
       <td>All</td>
-      <td>September 2014</td>
     </tr>
     <tr>
       <td>Weather</td>
       <td>Hourly weather reports for local conditions with detailed satellite imaginery.</td>
       <td>All</td>
-      <td>September 2014</td>
+    </tr>
+  </tbody>
+</table> 
+
+{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_1@05.jpg" width="100%" description="Track and Field" %}
+
+## Safety
+
+<table>
+  <thead>
+    <tr>
+      <th>Module</th>
+      <th>Description</th>
+      <th>Sport</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Route check</td>
+      <td>Warning for location proximity of marked waypoints. Warning when distancing from pre-defined course.</td>
+      <td>All</td>
+    </tr>
+    <tr>
+      <td>Rear view Cam</td>
+      <td>Allow viewing of river in forward direction.</td>
+      <td>Rowing</td>
+    </tr>
+    <tr>
+      <td>Proximity check</td>
+      <td>Warning for proximity of networked devices.</td>
+      <td>Rowing</td>
     </tr>
   </tbody>
 </table> 
@@ -149,7 +193,6 @@ System for the complete management of sporting activities, customized and fine-t
       <th>Module</th>
       <th>Description</th>
       <th>Sport</th>
-      <th>Release date</th>
     </tr>
   </thead>
   <tbody>
@@ -157,13 +200,11 @@ System for the complete management of sporting activities, customized and fine-t
       <td>Nutrition</td>
       <td>Keeping track of nutrition facts, diets, calories.</td>
       <td>All</td>
-      <td>September 2014</td>
     </tr>
     <tr>
       <td>Medical</td>
-      <td>Bio records and stats.</td>
+      <td>Bio records and stats. </td>
       <td>All</td>
-      <td>September 2014</td>
     </tr>
   </tbody>
 </table> 
