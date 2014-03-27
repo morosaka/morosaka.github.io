@@ -487,3 +487,31 @@ pre code {
 	font-size: 12pt;
 	color: #999;
 }
+
+/*MMS*/
+
+img.site-icon {
+	margin-top: -75px;
+	width: 150px;
+	height: 150px;
+	border-radius: 0%;
+	transition-duration: .25s;
+	opacity: .9;
+}
+
+img.site-icon-small {
+	width: 28px;
+	height: 28px;
+	border-radius: 0%;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+img.site-icon-page {
+	width: 100px;
+	height: 100px;
+	margin-left: -40px;
+	margin-top: -120px;
+	border-radius: 0%;
+	position: absolute;
+}
