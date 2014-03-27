@@ -10,7 +10,7 @@ video: false
 
 System for the complete management of sporting activities, customized and fine-tuned through the use of specialized tasks modules. Add only the features you need and target your specific sport and role.
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/allenamento-nano.jpg" width="100%" description="Most historians agree that Milo remains to this day the greatest wrestler and fighter (from any combat sport) the world has ever known. Milo of Croton became an Olympic champion several times during his nearly thirty-year career. His size and physique were intimidating, and his strength and technique perfect—and many people accordingly believed that he was  the son of Zeus. He was said to eat more than eight kilograms of meat every day. Some say that he even once carried an adult bull on his shoulders, all the way to the Olympic stadium, where he slaughtered and devoured it. Yet Milo was not merely a hulking wrestler; he was also a musician and a poet, as well as a student of the mathematician and philosopher Pythagoras.The greatest wrestler of the twentieth century, Alexander Karelin, was often called the modern-day Milo of Croton—but he himself acknowledged that he would not stand a good chance against the real Milo." %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/milon@05.jpg" width="100%" description="Most historians agree that Milo (6th-century BC) remains to this day the greatest wrestler and fighter (from any combat sport) the world has ever known. Milo of Croton became an Olympic champion several times during his nearly thirty-year career. His size and physique were intimidating, and his strength and technique perfect—and many people accordingly believed that he was  the son of Zeus. Yet Milo was not merely a hulking wrestler; he was also a musician and a poet, as well as a student of the mathematician and philosopher Pythagoras." %}
 
 
 ## People and Time
@@ -53,7 +53,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/run_1.jpg" width="100%" description="Marathon" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/run_1@05.jpg" width="100%" description="Marathon" %}
 
 ##Form and details
 
@@ -82,7 +82,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_2.jpg" width="100%" description="Mountain Bike" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_2@05.jpg" width="100%" description="Mountain Bike" %}
 
 ## Reference Docs
 
@@ -105,7 +105,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_2.jpg" width="100%" description="Swimming" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/swim_2@05.jpg" width="100%" description="Swimming" %}
 
 ## On the ground
 
@@ -139,7 +139,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/run_2.jpg" width="100%" description="Track and Field" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/run_2@05.jpg" width="100%" description="Track and Field" %}
 
 ## Bodily Care
 
@@ -168,7 +168,7 @@ System for the complete management of sporting activities, customized and fine-t
   </tbody>
 </table> 
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_3.jpg" width="100%" description="Rowing" %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/rowing_3@05.jpg" width="100%" description="Rowing" %}
 
 ## Usage
 
