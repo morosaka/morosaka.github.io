@@ -94,6 +94,11 @@ Deployed for iOS devices, now it can be used with iPhones and iPads (look for iW
       <td>Times, Strokes, speed, attitude.</td>
       <td>Rowing, Biking, Running</td>
     </tr>
+     <tr>
+      <td>Charting</td>
+      <td>Data analisys. Line and bar graph support.</td>
+      <td>All</td>
+    </tr>
     <tr>
       <td>Mapping</td>
       <td>Nav data from computer, tracing route on map, on and off roads</td>
