@@ -16,7 +16,7 @@ Recall all current events on the fly, right on the main screen.
 Communicate and email current events to anybody. 
 Review your work data on your computer at home.
 
-{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/rowing_1.jpg" width="100%" description="Olympics games: London 2012." %}
+{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/Cycling-BMX-w@05.jpg" width="100%" description="BMX racing" %}
 
 ##Interface
 The whole events display area accepts taps, making it easy to input commands.
@@ -24,9 +24,9 @@ Buttons can have a audible feedback. All functions are clearly marked and labele
 It is possible to take rate frequency over 2, 3, 4, or 5 cycles.
 Rates are displayed both as cycles per minute (cpm) and seconds per cycle (spc), piece times measure Laps and Cumulative times, all shown on one screen.
 
-{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/iPhone5-W-MockUp.jpg" width="100%" description="StrokeRate Chrono v2 interface: taking rates." %}
-
 This new version of Chrono goes deeper with the [initial idea](http://morosaka.github.io/the_road_to_follow/) of a simple, focued tool for coaches and enthusiasts <cite>monitoring athletes</cite> involved in sports such as rowing, swimming, cycling, running.
+
+{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/iPhone5-W-MockUp@05.jpg" width="100%" description="StrokeRate Chrono v2 interface: taking rates." %}
 
 ### Lists and text formatting
 
@@ -49,7 +49,7 @@ You can add `code elements` with highlight support:
 
 Will output this:
 
-{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/iPhone5-B-CloseUp.jpg" width="100%" description="StrokeRate Chrono v2 interface: taking rates." %}
+{% include image.html url="/media/2014-01-15-StrokeRate-Chrono/iPhone5-B-CloseUp@05.jpg" width="100%" description="StrokeRate Chrono v2 interface: taking rates." %}
 
 ### Table
 
