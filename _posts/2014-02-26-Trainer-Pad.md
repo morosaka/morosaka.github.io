@@ -168,8 +168,8 @@ Deployed for iOS devices, now it can be used with iPhones and iPads (look for iW
       <td>All</td>
     </tr>
     <tr>
-      <td>Weather</td>
-      <td>Hourly weather reports for local conditions with detailed satellite imaginery.</td>
+      <td>Voice controll</td>
+      <td>Voice controll and audio feedback for hands free interaction. (For best results, a noise-cancelling haedset is required)</td>
       <td>All</td>
     </tr>
   </tbody>
