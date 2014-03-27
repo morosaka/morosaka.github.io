@@ -140,8 +140,29 @@ System for the complete management of sporting activities, customized and fine-t
       <td>All</td>
     </tr>
     <tr>
-      <td>Communications</td>
-      <td>Text and voice communication.</td>
+      <td>Weather</td>
+      <td>Hourly weather reports for local conditions with detailed satellite imaginery.</td>
+      <td>All</td>
+    </tr>
+  </tbody>
+</table> 
+
+{% include image.html url="/media/2014-02-26-Trainer-Pad/bike_1@05.jpg" width="100%" description="Track and Field" %}
+
+## Communication
+
+<table>
+  <thead>
+    <tr>
+      <th>Module</th>
+      <th>Description</th>
+      <th>Sport</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Messaging</td>
+      <td>Text and voice dispatching.</td>
       <td>All</td>
     </tr>
     <tr>
