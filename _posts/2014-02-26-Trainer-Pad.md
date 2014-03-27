@@ -115,7 +115,7 @@ System for the management of sporting activities, customized and fine-tuned thro
   <tbody>
     <tr>
       <td>Rules</td>
-      <td>Game rule books and regulations.</td>
+      <td>Game rule books and regulations. Reference materials national and international.</td>
       <td>All</td>
     </tr>
   </tbody>
