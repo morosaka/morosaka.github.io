@@ -10,7 +10,7 @@ video: false
 
 System for the complete management of sporting activities, customized and fine-tuned through the use of specialized tasks modules. Add only the features you need and target your specific sport and role.
 
-{% include image.html url="/media/2014-02-26-Trainer-Pad/milon@05.jpg" width="100%" description="Most historians agree that Milon (6th-century BC) remains to this day the greatest wrestler and fighter (from any combat sport) the world has ever known. Milon of [Croton](http://en.wikipedia.org/wiki/Crotone) became an Olympic champion several times during his nearly thirty-year career. His size and physique were intimidating, and his strength and technique perfect—and many people accordingly believed that he was  the son of Zeus. Yet Milo was not merely a hulking wrestler; he was also a musician and a poet, as well as a student of the mathematician and philosopher Pythagoras." %}
+{% include image.html url="/media/2014-02-26-Trainer-Pad/milon@05.jpg" width="100%" description="Most historians agree that Milon (6th-century BC) remains to this day the greatest wrestler and fighter (from any combat sport) the world has ever known. Milon of "[Croton](http://en.wikipedia.org/wiki/Crotone)" became an Olympic champion several times during his nearly thirty-year career. His size and physique were intimidating, and his strength and technique perfect—and many people accordingly believed that he was  the son of Zeus. Yet Milo was not merely a hulking wrestler; he was also a musician and a poet, as well as a student of the mathematician and philosopher Pythagoras." %}
 
 
 ## People and Time
