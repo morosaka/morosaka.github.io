@@ -83,7 +83,8 @@ Thinny also support html tag `<table>`:
 
 ### Mobile version
 
-<strong>Coming soon...</strong>
+<strong>Find it on the AppStore</strong>
+><a href="https://itunes.apple.com/us/app/strokerate-chrono/id457836882?mt=8&uo=4" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}"></a>
 
 ### Quote
 
